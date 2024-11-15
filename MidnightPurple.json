@@ -18,7 +18,7 @@
             "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#BF40BF"
+            "#7700ff"
         ],
         "TEXT_LINK": [
             "#7700ff"
@@ -27,7 +27,7 @@
             "#7700ff"
         ],
         "INTERACTIVE_HOVER": [
-            "#BF40BF"
+            "#7700ff"
         ],
         "INTERACTIVE_ACTIVE": [
             "#7700ff"
@@ -51,7 +51,7 @@
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#BF40BF"
+            "#7700ff"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000"
@@ -66,7 +66,7 @@
             "#000000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#BF40BF55"
+            "#7700ff"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#000000"
@@ -86,9 +86,6 @@
         "CHANNELS_DEFAULT": [
             "#c4c4c4"
         ],
-        "TEXT_LINK": [
-            "#BF40BF"
-        ],
         "CHANNEL_ICON": [
             "#ffffff"
         ]
@@ -97,25 +94,25 @@
         "PRIMARY_100": "#ffffff",
         "PRIMARY_200": "#ffffff",
         "PRIMARY_300": "#ffffff",
-        "PRIMARY_360": "#BF40BF",
-        "PRIMARY_500": "#BF40BF",
+        "PRIMARY_360": "#7700ff",
+        "PRIMARY_500": "#7700ff",
         "PRIMARY_600": "#000000",
         "PRIMARY_630": "#000000",
         "PRIMARY_660": "#000000",
         "PRIMARY_700": "#000000",
         "PRIMARY_800": "#000000",
         "BRAND_260": "#ffffff",
-        "BRAND_360": "#BF40BF",
-        "BRAND_500": "#BF40BF",
+        "BRAND_360": "#7700ff",
+        "BRAND_500": "#7700ff",
         "BRAND_560": "#ffffff",
         "WHITE_500": "#ffffff",
-        "BLUE_345": "#BF40BF",
-        "YELLOW_300": "#BF40BF",
-        "ORANGE_345": "#BF40BF",
-        "GREEN_345": "#BF40BF",
-        "GREEN_360": "#BF40BF",
-        "RED_560" : "#BF40BF",
-        "RED_400": "#BF40BF"
+        "BLUE_345": "#7700ff",
+        "YELLOW_300": "#7700ff",
+        "ORANGE_345": "#7700ff",
+        "GREEN_345": "#7700ff",
+        "GREEN_360": "#7700ff",
+        "RED_560" : "#7700ff",
+        "RED_400": "#7700ff"
     },
     "spec": 2,
     "background": {
@@ -123,7 +120,7 @@
     },
     "plus": {
 	"version": 0,
-	"unreadBadgeColor": "#BF40BF",
+	"unreadBadgeColor": "#7700ff",
 	    "iconpack": "md3"
     }
 }
