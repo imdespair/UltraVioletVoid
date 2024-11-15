@@ -2,12 +2,11 @@
     "name": "UltraViolet Snow",
     "description": "A Snowwy dark theme with accents of UltraViolet.",
     "authors": [
-      {
-        "name": "Despair",
-        "id": "1006638529746583752"
-      }
+        {
+            "name": "Despair",
+            "id": "1006638529746583752"
+        }
     ],
-    "spec": 2,
     "semanticColors": {
         "HEADER_PRIMARY": ["#7700ff"],
         "HEADER_SECONDARY": ["#7700ff"],
@@ -126,9 +125,10 @@
         "NotoSans-Semibold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
         "SourceCodePro-Semibold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf"
     },
-        "Background": {
+    "Background": {
         "blur": 0,
         "url": "https://raw.githubusercontent.com/coolesding/shiggycord/v3/img/snow.gif",
         "alpha": 0.42
-    }
+    },
+    "spec": 2
 }
