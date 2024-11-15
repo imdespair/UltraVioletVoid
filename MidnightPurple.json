@@ -103,7 +103,7 @@
         "version": "0",
         "customOverlays": true,
         "iconpack": "Solar",
-        "mentionLineColor": "#770"
+        "mentionLineColor": "#F00"
 
     },
     "fonts": {
