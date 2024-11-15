@@ -127,7 +127,7 @@
     },
     "Background": {
         "blur": 0,
-        "url": "https://mysticentity.github.io/CustomBetterDiscordCSS/BlackestOfBlack.jpg",
+        "url": "https://raw.githubusercontent.com/coolesding/shiggycord/v3/img/snow.gif",
         "alpha": 0.42
     },
     "spec": 2
