@@ -1,26 +1,30 @@
 {
     "name": "MidnightPurple",
-    "description": "A dark, purple hued theme.",
+    "description": "If the despaur comes a knockin. Here comes my cockin' balls.",
     "authors": [
         {
             "name": "Despair",
             "id": "1006638529746583752"
         }
+
     ],
     "semanticColors": {
-	    "HEADER_PRIMARY": [
+        "HEADER_PRIMARY": [
             "#7700ff"
         ],
         "HEADER_SECONDARY": [
-            "#ffffff"
-        ],
-        "TEXT_NORMAL": [
-            "#ffffff"
-        ],
-        "TEXT_MUTED": [
             "#7700ff"
         ],
-        "TEXT_LINK": [
+        "TEXT_NORMAL": [
+            "#7700ff"
+        ],
+	"TEXT_SECONDARY": [
+            "#7700ff"
+        ],
+	"TEXT_PRIMARY": [
+            "#7700ff"
+        ],
+        "TEXT_MUTED": [
             "#7700ff"
         ],
         "INTERACTIVE_NORMAL": [
@@ -33,7 +37,7 @@
             "#7700ff"
         ],
         "INTERACTIVE_MUTED": [
-            "#808080"
+            "#7700ff"
         ],
         "BACKGROUND_PRIMARY": [
             "#000000"
@@ -41,17 +45,20 @@
         "BACKGROUND_SECONDARY": [
             "#000000"
         ],
-        "BG_BASE_SECONDARY":   [
-            "#000000"
-        ],
         "BACKGROUND_SECONDARY_ALT": [
             "#000000"
         ],
+		"REDESIGN_BUTTON_SECONDARY_BORDER": [
+		"#7700ff"
+		],
         "BACKGROUND_TERTIARY": [
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#7700ff"
+            "#000000"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#000000"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000"
@@ -59,68 +66,163 @@
         "BACKGROUND_MOBILE_SECONDARY": [
             "#000000"
         ],
-        "BACKGROUND_MENTIONED": [
-            "#922492"
+        "BACKGROUND_NESTED_FLOATING": [
+            "#000000"
+        ],
+       
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#7700ff"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#000000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#7700ff"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#000000"
         ],
-        "SPOILER_HIDDEN_BACKGROUND": [
-            "#000000"
+        "BACKGROUND_MENTIONED": [
+            "#FFB000"
         ],
-        "SPOILER_REVEALED_BACKGROUND": [
-            "#000000"
+		
+		"BUTTON_OUTLINE_BRAND_BACKGROUND":[
+		"#7700ff"
+		],
+		"BUTTON_OUTLINE_BRAND_BOARDER":[
+		"#7700ff"
+		],
+        "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#000000"
+      ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#000000"
+      ],
+	  "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+      "#000000"
+      ],
+	  "BG_BASE_PRIMARY":[
+	  "#000000"
+		],
+        "SCROLLBAR_THIN_THUMB": [
+            "#7700ff"
         ],
-        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#999999"
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#7700ff"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#7700ff"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#7700ff"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#7700ff"
+        ],
+        "TEXT_LINK": [
+            "#7700ff"
+        ],
+        "TEXT_DANGER": [
+            "#fa743e"
+        ],
+        "KEYBOARD": [
+            "#7700ff"
+        ],
+        "CHANNEL_ICON": [
+            "#7700ff"
         ],
         "CHAT_BACKGROUND": [
             "#000000"
-        ],
-        "CHANNELS_DEFAULT": [
-            "#c4c4c4"
-        ],
-        "CHANNEL_ICON": [
-            "#ffffff"
-        ]
+      ],
+	"CARD_PRIMARY_BG": [
+	    "#000000"
+	],
+"REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+"#7700ff"
+],
+    "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
+      "#000000",
+      "#000000",
+      "#000000"
+	   ]
     },
     "rawColors": {
-        "PRIMARY_100": "#ffffff",
-        "PRIMARY_200": "#ffffff",
-        "PRIMARY_300": "#ffffff",
+        "PRIMARY_100": "#7700ff",
+        "PRIMARY_200": "#7700ff",
+		"PRIMARY_230": "#7700ff",
+        "PRIMARY_300": "#7700ff",
         "PRIMARY_360": "#7700ff",
-        "PRIMARY_500": "#7700ff",
+        "PRIMARY_400": "#7700ff",
+		"PRIMARY_500": "#7700ff",
+		"PRIMARY_560": "#000000",
         "PRIMARY_600": "#000000",
         "PRIMARY_630": "#000000",
+		"PRIMARY_645": "#000000",
         "PRIMARY_660": "#000000",
         "PRIMARY_700": "#000000",
         "PRIMARY_800": "#000000",
-        "BRAND_260": "#ffffff",
+        "BRAND_260": "#7700ff",
         "BRAND_360": "#7700ff",
-        "BRAND_500": "#7700ff",
-        "BRAND_560": "#ffffff",
-        "WHITE_500": "#ffffff",
-        "BLUE_345": "#7700ff",
+        "BRAND_500": "#FFB000",
+        "BRAND_560": "#7700ff",
         "YELLOW_300": "#7700ff",
-        "ORANGE_345": "#7700ff",
-        "GREEN_345": "#7700ff",
+        "GREEN_600": "#7700ff",
+        "RED_400": "#7700ff",
+        "WHITE_500": "#7700ff",
+		"WHITE_630": "#7700ff",   
         "GREEN_360": "#7700ff",
-        "RED_560" : "#7700ff",
-        "RED_400": "#7700ff"
+		"PLUM_1": "#7700ff",
+		"PLUM_3": "#7700ff",
+		"PLUM_6": "#7700ff",
+		"PLUM_10": "#7700ff",
+		"PLUM_11": "#000000",
+		"PLUM_15": "#7700ff",
+		"PLUM_17": "#FFB000",
+  "PLUM_18": "#FFB000",
+  "PLUM_19": "#000000",
+		"PLUM_20": "#000000",
+		"PLUM_26": "#FF00FF",
+		"PLUM_22": "#000000",
+		"PLUM_24": "#000000"
+		
+		   
     },
-    "spec": 2,
-    "background": {
-        "color": "#000000"
-    },
+
     "plus": {
-	"version": 0,
-	"unreadBadgeColor": "#7700ff",
-	    "iconpack": "md3"
-    }
+        "version": "0",
+       "customOverlays": true,
+        "iconpack": "materialtwotone"
+}, 
+	"fonts":{
+  "ABCGintoNord-ExtraBold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "ggsans-Bold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "ggsans-BoldItalic": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "ggsans-ExtraBold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "ggsans-ExtraBoldItalic": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "ggsans-Medium": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "ggsans-MediumItalic": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "ggsans-Normal": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "ggsans-NormalItalic": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "ggsans-Semibold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "ggsans-SemiboldItalic": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "NotoSans-Bold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "NotoSans-ExtraBold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "NotoSans-Medium": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "NotoSans-Normal": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "NotoSans-NormalItalic": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "NotoSans-Semibold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "SourceCodePro-Semibold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf"
+ },	
+	"Background": {
+		"blur": 0,
+		"url": "https://mysticentity.github.io/CustomBetterDiscordCSS/BlackestOfBlack.jpg",
+		"alpha": 0.42
+	},
+    "spec": 2
 }
