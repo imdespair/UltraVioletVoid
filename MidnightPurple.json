@@ -34,7 +34,7 @@
             "#7700ff"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#ffffff"
+            "#7700ff"
         ],
         "INTERACTIVE_MUTED": [
             "#7700ff"
@@ -83,7 +83,7 @@
             "#15012b"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#ffffff"
+            "#000000"
         ],
         "BACKGROUND_MENTIONED": [
             "#FFB000"
