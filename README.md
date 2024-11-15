@@ -1,7 +1,14 @@
-# Title
+# Ultra-Violet Void
 
-## Wow! Super cool Themes.
+> 💜
 
-- Probably broken
+## __Requirements__
+- A brain `(optional)`
+- [Themes+ plugin](https://vendetta.nexpid.xyz/themes-plus)
 
-``end of README``
+## Wiki
+- Planned
+> Not sure when I'll start cause idk im lazy.
+
+## End
+- Enjoy the theme ig.
