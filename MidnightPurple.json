@@ -87,6 +87,7 @@
         "PLUM_1": "#7700ff",
         "PLUM_3": "#7700ff",
         "PLUM_6": "#7700ff",
+        "plum_9": "#ffffff",
         "PLUM_10": "#7700ff",
         "PLUM_11": "#000000",
         "PLUM_15": "#7700ff",
@@ -101,7 +102,9 @@
     "plus": {
         "version": "0",
         "customOverlays": true,
-        "iconpack": "materialtwotone"
+        "iconpack": "Solar",
+        "mentionLineColor": "#7700ff"
+
     },
     "fonts": {
         "ABCGintoNord-ExtraBold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
