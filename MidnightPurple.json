@@ -1,6 +1,6 @@
 {
     "name": "MidnightPurple",
-    "description": "If the despaur comes a knockin. Here comes my cockin' balls.",
+    "description": "If the Despair comes a knockin... Here comes my cockin' balls.",
     "authors": [
         {
             "name": "Despair",
@@ -34,7 +34,7 @@
             "#7700ff"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#7700ff"
+            "#ffffff"
         ],
         "INTERACTIVE_MUTED": [
             "#7700ff"
@@ -80,10 +80,10 @@
             "#000000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#000000"
+            "#15012b"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#000000"
+            "#ffffff"
         ],
         "BACKGROUND_MENTIONED": [
             "#FFB000"
@@ -129,7 +129,7 @@
             "#7700ff"
         ],
         "TEXT_DANGER": [
-            "#7700ff"
+            "#ff3d3d"
         ],
         "KEYBOARD": [
             "#7700ff"
@@ -183,7 +183,7 @@
 		"PLUM_10": "#7700ff",
 		"PLUM_11": "#000000",
 		"PLUM_15": "#7700ff",
-		"PLUM_17": "#FFB000",
+		"PLUM_17": "#7700ff",
   "PLUM_18": "#FFB000",
   "PLUM_19": "#000000",
 		"PLUM_20": "#000000",
