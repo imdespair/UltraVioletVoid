@@ -99,13 +99,6 @@
         "PLUM_22": "#000000",
         "PLUM_24": "#000000"
     },
-    "plus": {
-        "version": "0",
-        "customOverlays": true,
-        "iconpack": "Solar",
-        "mentionLineColor": "#7700ff"
-
-    },
     "fonts": {
         "ABCGintoNord-ExtraBold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
         "ggsans-Bold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
