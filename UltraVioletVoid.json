@@ -9,9 +9,9 @@
     }
   ],
   "semanticColors": {
-      "HEADER_PRIMARY": "#7700ff",
-      "HEADER_SECONDARY": "#ffffff"
-    },
+    "HEADER_PRIMARY": "#7700ff",
+    "HEADER_SECONDARY": "#ffffff"
+  },
   "plus": {
     "version": "0",
     "iconpack": "MaterialTwoTone",
