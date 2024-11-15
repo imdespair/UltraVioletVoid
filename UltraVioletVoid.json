@@ -1,11 +1,11 @@
 {
-  "name": "YouPurple",
-  "description": "purple based on material you :3",
-  "version": "1.0",
+  "name": "Ultra-Violet Void",
+  "description": "💜",
+  "version": "69.420",
   "authors": [
     {
-      "name": "dor4a",
-      "id": "455513497288310785"
+      "name": "imdespair",
+      "id": "1006638529746583752"
     }
   ],
   "semanticColors": {
@@ -46,15 +46,15 @@
     "INTERACTIVE_NORMAL": ["#BCADFA"],
     "MENTION_BACKGROUND": ["#1E1B27"],
     "MENTION_FOREGROUND": ["#978BC9"],
-    "TEXT_DANGER": ["#BCADFA"],
-    "TEXT_LINK": ["#BCADFA"],
-    "TEXT_NORMAL": ["#E3DEFD"],
+    "TEXT_DANGER": ["#f83051"],
+    "TEXT_LINK": ["#f83051"],
+    "TEXT_NORMAL": ["#d8aafd"],
     "TEXT_MUTED": ["#BCADFA"],
-    "TEXT_PRIMARY": ["#E3DEFD"],
+    "TEXT_PRIMARY": ["#d8aafd"],
     "THREAD_CHANNEL_SPINE": ["#BCADFA"],
-    "BG_BASE_PRIMARY": ["#151319"],
-    "BG_BASE_SECONDARY": ["#151319"],
-    "BG_BASE_TERTIARY": ["#151319"],
+    "BG_BASE_PRIMARY": ["#000000"],
+    "BG_BASE_SECONDARY": ["#000000"],
+    "BG_BASE_TERTIARY": ["#000000"],
     "BG_MOD_FAINT": ["#1E1B27"],
     "BG_MOD_STRONG": ["#1E1B27"],
     "BG_MOD_SUBTLE": ["#BCADFA29"],
